@@ -9,7 +9,7 @@ package com.nissan.training_core_java;
 		abstract void run();
 		void gear()
 		{
-			System.out.println("Change the gear");
+			System.out.println("Change ");
 	}
 	}
 
